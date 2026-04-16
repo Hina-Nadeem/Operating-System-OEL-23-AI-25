@@ -1,3 +1,0 @@
-Cleanup Started: Thu Apr 16 11:38:56 PKT 2026
-Backup directory created: /home/a/backup/backup_2026-04-16
-Cleanup finished: Thu Apr 16 11:38:56 PKT 2026
